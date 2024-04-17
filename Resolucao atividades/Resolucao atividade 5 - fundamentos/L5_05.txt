@@ -1,0 +1,13 @@
+Questão 5
+
+a) No primeiro printf nenhum valor é atribuído as variáveis, sendo assim serão apresentados três zeros. No segundo print serão apresentados 67 67 88. No terceiro serãoa presentados os valores: 1 1 0 0 0 0 1 0. E no último printf serão apresentados: um valor qualquer (pois o número limite de caracteres de um char é 127, acima disso ele já não é mais representado) 67 1000,
+
+b) Não foram atribuídos valores as variáveis.
+
+c) Porque treco é um hexadecimal.
+
+d) Nenhum. Nenhum. Todos.
+
+e) A sequência do que é representado em cada linha é: 1, 33, 1, 16, 0, 8, 0, 4, 0, 2, 0, 1, 1, 0, 0, 0.
+
+f) Porque o valor atribuído a coisa excede ao limite do tipo char (127).

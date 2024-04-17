@@ -1,0 +1,33 @@
+Questão 1:
+
+a)
+binário: 1111 1010
+hexadecimal: fa
+
+b)
+binário: 0011 1111
+hexadecimal: 3f
+
+c)
+binário: 0100 0000
+hexadecimal: 40
+
+d)
+binário: 0111 1111
+hexadecimal: 7f
+
+e)
+binário: 1000 0000
+hexadecimal: 80
+
+f)
+binário: 1111 1111
+hexadecimal: ff
+
+g)
+binário: 0001 0000 0000
+hexadecimal: 100
+
+h)
+binário: 0001 1110 0011
+hexadecimal: 1e3

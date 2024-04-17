@@ -1,0 +1,11 @@
+referencias
+
+areas dos sistemas de informação: 
+O'Brien 2000
+- Sistema de apoio à decisão (SAD): 
+		não é programado para solucionar problemas pré-definidos, e sim para alterar suas configurações a cada novo problema
+
+
+Diario de Pernambuco, 12/03/2020 - Curso capacita pessoas de minorias sociais para área de tecnologia
+
+- abrange a população de baixa renda, população negra, mulheres e LGBTQIA+
