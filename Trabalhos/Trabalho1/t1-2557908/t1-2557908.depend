@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1668693234 source:c:\users\netin\documents\trablhos para faculdade\trabalhos faculdade\t1 - 2557908\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1668693044 c:\users\netin\documents\trablhos para faculdade\trabalhos faculdade\t1 - 2557908\imagem.h
+
+1683164136 source:c:\users\netin\documents\trablhos para faculdade\trabalhos faculdade\t1 - 2557908\main_codifica.c
+	"trabalho1.h"
+
+1681914326 c:\users\netin\documents\trablhos para faculdade\trabalhos faculdade\t1 - 2557908\trabalho1.h
+
+1681927628 source:c:\users\netin\documents\trablhos para faculdade\trabalhos faculdade\t1 - 2557908\trabalho1.c
+	<stdio.h>
+	<stdlib.h>
+	"trabalho1.h"
+	"imagem.h"
+
+1683162547 source:c:\users\netin\documents\trablhos para faculdade\trabalhos faculdade\t1 - 2557908\t1 - 2557908.c
+
+1668693234 source:c:\users\netin\documents\faculdade\trabalhos\t1-2557908\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1668693044 c:\users\netin\documents\faculdade\trabalhos\t1-2557908\imagem.h
+
+1684007271 source:c:\users\netin\documents\faculdade\trabalhos\t1-2557908\main_codifica.c
+	"trabalho1.h"
+
+1681914326 c:\users\netin\documents\faculdade\trabalhos\t1-2557908\trabalho1.h
+
+1681927628 source:c:\users\netin\documents\faculdade\trabalhos\t1-2557908\trabalho1.c
+	<stdio.h>
+	<stdlib.h>
+	"trabalho1.h"
+	"imagem.h"
+
+1684366363 source:c:\users\netin\documents\faculdade\trabalhos\t1-2557908\t1-2557908.c
+	"trabalho1.h"
+	"imagem.h"
+	<stdlib.h>
+	<time.h>
+
+1684366735 source:c:\users\netin\documents\faculdade\trabalhos\t1-2557908\main_decodifica.c
+	"trabalho1.h"
+
+1683927162 source:c:\users\netin\documents\faculdade\trabalhos\t1-2557908\codifica_lais.c
+	"trabalho1.h"
+
+1684008113 source:c:\users\netin\documents\faculdade\trabalhos\t1-2557908\joao_menegassi.c
+	"trabalho1.h"
+
+1684011245 source:c:\users\netin\documents\faculdade\trabalhos\t1-2557908\decodifica_menegassi.c
+	"trabalho1.h"
+
+1684366659 source:c:\users\netin\documents\faculdade\trabalhos\t1-2557908\t1-2557916.c
+	<stdio.h>
+	<stdlib.h>
+	"trabalho1.h"
+
