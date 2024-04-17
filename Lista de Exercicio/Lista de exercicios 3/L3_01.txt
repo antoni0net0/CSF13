@@ -1,0 +1,8 @@
+Questão 1:
+a) a afirmação está errada porque a não é igual a b, b é 20 e a é 10 e 20 não é igual a 10
+
+b) a afirmação está errada porque 20 não é menor que cinco
+
+c) a afirmação está correta pois 30 é diferente de 10
+
+d) a afrimação está correta porque 20 = 20

@@ -1,0 +1,42 @@
+Lista de atividades:
+Questão 1:
+a) 11
+b) 16
+c) 1
+d) 1,25
+e) 2
+f) 1
+g) -5 e -5
+h) 5.1
+I) 4
+
+Questão 3:
+Quando se digita o número com float sem nenhuma limitação o padrão float fica até 6 casas depois da
+vírgula, quando se põe .0 o número é arredondado, com .1 limita a uma casa decimal depois da vírgula, .2
+dois números e assim vai.
+
+Questão 4:
+Primeiramente será mostrado o número 20 3 vezes, depois disso será mostrado o número 10, o número 11
+e o número 21. Após isso, é mostrado o número 12
+
+Questão 7:
+O erro da linha 8 é que não existe resto diferente de 0 em uma divisão de números float
+O erro da linha 9 é que a sintaxe do printf está errada pois não possui o &
+O erro da linha 10 é que está sem o ;
+O erro da linha 11 é que não tem nenhum valor atribuído para o x3, então cada vez que o programa fosse
+rodado apareceria um numero aleatorio.
+O erro da linha 12 é que o X está maiusculo e não existe nenhuma variavel declarada com o x maiusculo.
+O erro da linha 13 é que a sintaxe está errada, está faltando igualar a alguma coisa.
+O erro da linha 14 é porque o número começa com 0 e toda vez que um numero começa com 0 o compilador entende que ele é um numero octal.
+
+Questão 8 (opcional):
+Ocorreu um problema onde no segundo numero. Esse erro deve acontecer porque o %d deve ter um limite de quão grande um numero deve ser e esse limite é aplicado quando um numero o ultrapassa.
+
+Questão 9 (opcional):
+Não. O primeiro programa é "enxergado" pela maquina como texto, já o segundo programa é "enxergado" pela maquina como um numero inteiro (a vantagem de seu uso é que você pode manipulá-lo depois da aspas)
+
+Questão 10 (opcionais):
+Uma das coisas que eu pensei do motivo da resposta está errada é por exemplo no laço de repetição for, se você utilizasse o for como sendo um numero float formaria uma repetição praticamente infinita.
+
+Questão 11 (opcionais):
+Creio que a forma de x*x*x é mais fácil de entender do que usando o pow.
